@@ -28,7 +28,7 @@ const fullname = personName +' '+ personSurname;
 console.log(fullname); 
 
 // Vienguba (') ir dviguba (") kabutes.
-const kabutes12 = "Vienguba (') ir " +'dvyguba (") kabutes.';
+const kabutes12 = "Vienguba (') ir " + 'dvyguba (") kabutes.';
 console.log(kabutes12);
 
 //Vienguba (') ir dvyguba (") kabutes.
